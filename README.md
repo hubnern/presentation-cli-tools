@@ -33,3 +33,12 @@ TUIs:
 - presenterm
 - zellij
 
+# Extra resources
+
+[johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix)
+
+[Terminal Trove](https://terminaltrove.com/)
+
+[800 Rust terminal projects](https://blog.orhun.dev/800-rust-projects/)
+
+[Terminal Collective](https://terminalcollective.org/)
