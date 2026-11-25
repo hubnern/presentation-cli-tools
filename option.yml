@@ -1,0 +1,4 @@
+defaults:
+  validate_overflows: when_presenting #always
+speaker_notes:
+  always_publish: true

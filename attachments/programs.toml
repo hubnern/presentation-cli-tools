@@ -1,0 +1,16 @@
+[programs]
+[programs.activemq]
+group = "org.apache.activemq"
+artifact = "activemq-all"
+versions."6.1.8" = "..."
+
+[programs.arthas]
+group = "com.taobao.arthas"
+artifact = "arthas-all"
+versions."4.1.1" = "..."
+
+[programs.auto]
+group = "com.google.auto"
+artifact = "auto"
+versions."1.11.1" = "..."
+
